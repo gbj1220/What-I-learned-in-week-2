@@ -1,11 +1,8 @@
 # What I learned in week 2
 
-
 ## *If Statements*
 
-
 An if statement is a way to use true or false statements in order to execute commands. Use if to have a command execute when result is true. Then use else to have something else execute if the first statement isn't true. Ex...
-
 
 function eXample(num) {
   if (num === 0) {
@@ -33,6 +30,7 @@ Booleans can be used when you only have 2 options. They are very similar to the 
 
 
 We did a lot of work with basic functions using new parameters. We got to do some research and learn how to use different math operators to make our conditions true. We also learned how to find if a number is even or odd, between 2 values, and solve for other situations. Ex... 
+
 
 function fizzy(num) {
   if (num % 15 === 0) {
